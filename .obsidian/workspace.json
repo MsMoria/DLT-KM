@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b64291667d312d89",
+        "id": "cc146a1597817c30",
         "type": "tabs",
         "children": [
           {
-            "id": "45c580dfcb90d354",
+            "id": "078876b0bbfb55d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "meld-encrypted-file-content-view",
+              "state": {
+                "file": "2. Hardware/Inventory/DLT Laptop.mdenc"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Hardware/Inventory/DLT Laptop.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Hardware/Inventory/DLT Laptop.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +122,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "2. Hardware/Inventory/DLT Laptop.mdenc"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eae36a731935f096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a240962b2044b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -125,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,11 +154,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "1279243b175f7624",
+  "active": "078876b0bbfb55d6",
   "lastOpenFiles": [
+    "2. Hardware/Inventory/DLT Laptop.mdenc",
+    "8. General Documentation/Templates/Computer Inventory Template.md",
+    "1. Inbox/Brainstorming.md",
+    "README.md",
     "8. General Documentation/Attatchments",
     "8. General Documentation/Templates",
     "8. General Documentation/Project Documentation",
@@ -149,7 +175,6 @@
     "7. Research and Information/Market Analysis",
     "7. Research and Information/Research Papers",
     "6. Training Guides/FAQs",
-    "6. Training Guides/Best Practices",
-    "6. Training Guides/Skill Development"
+    "6. Training Guides/Best Practices"
   ]
 }
