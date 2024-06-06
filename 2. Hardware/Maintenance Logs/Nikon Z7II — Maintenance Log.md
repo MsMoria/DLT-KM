@@ -1,0 +1,4 @@
+Asset Note [[Nikon Z7II]]
+# 2024-06-06
+- 08:57:38 - Slight issue reported. SD Card slot no longer allows for latching of card within the body of the device. Investigating if the hardware is still under warranty internally, from there we'll investigate if there is repair options at local camera stores. An initial check online seems to indicate that this is a common problem with this kind of slot and is likely going to be a simply (read "cheap") repair.
+- 09:45:19 - Checking on it, the warranty has expired (only one year and was purchased in 2022). Pursuing a quote to repair the SD Card Slot. Removing the Urgency from the job and setting priority to medium.
