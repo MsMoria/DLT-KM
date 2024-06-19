@@ -1,4 +1,5 @@
-- 2024-06-18 at 11h22 · [[Tips for Working with ADHD]]
+- 2024-06-19 at 10h14 · [[HIVE Operator Cheat Sheet]]
+- 2024-06-19 at 09h45 · [[Tips for Working with ADHD]]
 - 2024-06-18 at 11h09 · [[Low Impact Tasks — Digital Learning Technician]]
 - 2024-06-18 at 11h08 · [[Low Impact Tasks — Digital Learning Immersive Environments Technician]]
 - 2024-06-06 at 09h45 · [[Nikon Z7II — Maintenance Log]]
