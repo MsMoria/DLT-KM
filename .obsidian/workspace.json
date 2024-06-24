@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
+                "file": "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
+                "file": "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
+                "file": "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md"
+                "file": "6. Training Guides/Skill Development/Tips for Working with ADHD.md"
               }
             }
           },
@@ -200,11 +200,11 @@
   },
   "active": "bd78c8ee07d6adbe",
   "lastOpenFiles": [
-    "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
-    "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
-    "1. Inbox/Untitled.md",
-    "5. Processes/Standard Operating Procedures (SOPs)/Low Impact Tasks — Digital Learning Immersive Environments Technician.md",
     "5. Processes/Standard Operating Procedures (SOPs)/Low Impact Tasks — Digital Learning Technician.md",
+    "5. Processes/Standard Operating Procedures (SOPs)/Low Impact Tasks — Digital Learning Immersive Environments Technician.md",
+    "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
+    "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
+    "1. Inbox/Untitled.md",
     "2. Hardware/Inventory/DLT Laptop.mdenc",
     "README.md",
     "8. General Documentation/Project Documentation/Changelog.md",
