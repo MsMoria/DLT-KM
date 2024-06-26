@@ -18,7 +18,7 @@ tags:
 - Asset Tag: AA22-01085
 
 ### Maintenance History
-![[Nikon Z7II — Maintenance Log]]
+![[Nikon Z7II - Maintenance Log]]
 
 ### Network Configuration
 - **IP Address:** 

@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cc146a1597817c30",
+        "id": "3047ef4a0fd34f16",
         "type": "tabs",
         "children": [
           {
-            "id": "078876b0bbfb55d6",
-            "type": "leaf",
-            "state": {
-              "type": "meld-encrypted-file-content-view",
-              "state": {
-                "file": "2. Hardware/Inventory/DLT Laptop.mdenc"
-              }
-            }
-          },
-          {
-            "id": "b4699e025d5d7d5e",
+            "id": "d98cbd89d89f5bae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/Low Impact Tasks — Digital Learning Technician.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd78c8ee07d6adbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
+                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
+                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
+                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Training Guides/Skill Development/Tips for Working with ADHD.md"
+                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md"
               }
             }
           },
@@ -198,18 +175,20 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "bd78c8ee07d6adbe",
+  "active": "d98cbd89d89f5bae",
   "lastOpenFiles": [
+    "2. Hardware/Maintenance Logs/Hive Podcasting Machine - Maintenance Log.md",
+    "2. Hardware/Maintenance Logs/Nikon Z7II - Maintenance Log.md",
+    "2. Hardware/Inventory/HIVE Podcasting Machine.md",
+    "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
     "5. Processes/Standard Operating Procedures (SOPs)/Low Impact Tasks — Digital Learning Technician.md",
+    "2. Hardware/Inventory/DLT Laptop.mdenc",
     "5. Processes/Standard Operating Procedures (SOPs)/Low Impact Tasks — Digital Learning Immersive Environments Technician.md",
     "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
-    "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
     "1. Inbox/Untitled.md",
-    "2. Hardware/Inventory/DLT Laptop.mdenc",
     "README.md",
     "8. General Documentation/Project Documentation/Changelog.md",
     "8. General Documentation/Templates/Computer Inventory Template.md",
-    "2. Hardware/Maintenance Logs/Nikon Z7II — Maintenance Log.md",
     "2. Hardware/Inventory/Nikon Z7II.md",
     "1. Inbox/Brainstorming.md",
     "8. General Documentation/Attatchments",
