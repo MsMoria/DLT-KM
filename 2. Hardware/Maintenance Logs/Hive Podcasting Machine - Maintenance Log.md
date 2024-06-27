@@ -7,3 +7,5 @@ Asset Note [[HIVE Podcasting Machine]]
 	- User:
 	- Pass:
 - Installed into location, awaiting testing
+# 2024-06-27
+- Tested and confirmed.
