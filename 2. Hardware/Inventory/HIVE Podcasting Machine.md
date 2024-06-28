@@ -23,3 +23,6 @@ tags:
 
 ### Network Configuration
 - **IP Address:** 
+
+### Login Details
+🔐β 💡Production Password💡E5ZYataPDUjF0lhuqGhoLka6zMaqwVJ6RVpY/8jCX/XP4AXP1ecSJDdQrAXZZ/cqb1R4J+KnmMu6vL6zxTV8zOGZvkcM9qLLcgSEw1r47sf32ZQ8DgBXFl0vaB8= 🔐

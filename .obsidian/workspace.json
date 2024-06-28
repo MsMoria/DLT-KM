@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
+                "file": "2. Hardware/Inventory/HIVE Podcasting Machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
+                "file": "2. Hardware/Inventory/HIVE Podcasting Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
+                "file": "2. Hardware/Inventory/HIVE Podcasting Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md"
+                "file": "2. Hardware/Inventory/HIVE Podcasting Machine.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   "active": "d98cbd89d89f5bae",
   "lastOpenFiles": [
     "2. Hardware/Maintenance Logs/Hive Podcasting Machine - Maintenance Log.md",
-    "8. General Documentation/Project Documentation/Changelog.md",
     "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
+    "8. General Documentation/Project Documentation/Changelog.md",
     "2. Hardware/Maintenance Logs/Nikon Z7II - Maintenance Log.md",
     "2. Hardware/Inventory/HIVE Podcasting Machine.md",
     "6. Training Guides/Skill Development/Tips for Working with ADHD.md",
