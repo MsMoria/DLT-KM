@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Hardware/Inventory/HIVE Podcasting Machine.md",
+                "file": "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Hardware/Inventory/HIVE Podcasting Machine.md",
+                "file": "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Hardware/Inventory/HIVE Podcasting Machine.md",
+                "file": "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Hardware/Inventory/HIVE Podcasting Machine.md"
+                "file": "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md"
               }
             }
           }
@@ -165,8 +165,16 @@
   },
   "active": "d98cbd89d89f5bae",
   "lastOpenFiles": [
-    "1. Inbox/dd test.md",
+    "6. Training Guides/HIVE Stations/DIY Podcasting Environment/How do I adjust the FX Pads on the Procaster?.md",
+    "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md",
+    "8. General Documentation/Templates/Weekly Report Template.md",
+    "7. Reporting/Weekly Report",
+    "7. Reporting",
+    "2. Hardware/Inventory/RODECaster Pro II.md",
+    "6. Training Guides/HIVE Stations/DIY Podcasting Environment",
+    "6. Training Guides/HIVE Stations",
     "2. Hardware/Inventory/HIVE Podcasting Machine.md",
+    "1. Inbox/dd test.md",
     "2. Hardware/Maintenance Logs/Hive Podcasting Machine - Maintenance Log.md",
     "5. Processes/Standard Operating Procedures (SOPs)/HIVE Operator Cheat Sheet.md",
     "8. General Documentation/Project Documentation/Changelog.md",
@@ -183,10 +191,6 @@
     "8. General Documentation/Templates",
     "8. General Documentation/Project Documentation",
     "8. General Documentation/Glossary",
-    "7. Research and Information/Knowledge Base",
-    "7. Research and Information/Case Studies",
-    "7. Research and Information/Market Analysis",
-    "7. Research and Information/Research Papers",
-    "6. Training Guides/FAQs"
+    "7. Research and Information/Knowledge Base"
   ]
 }

@@ -1,5 +1,8 @@
 [
   "meld-encrypt",
   "obsidian-timestamper",
-  "obsidian-vault-changelog"
+  "obsidian-vault-changelog",
+  "obsidian-footnotes",
+  "obsidian-tidy-footnotes",
+  "obsidian-auto-link-title"
 ]

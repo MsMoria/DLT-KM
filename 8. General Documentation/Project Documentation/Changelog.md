@@ -1,3 +1,7 @@
+- 2024-07-15 at 12h39 · [[Weekly DLT Report — Week 28, 2024]]
+- 2024-07-15 at 12h25 · [[Weekly Report Template]]
+- 2024-07-10 at 10h26 · [[How do I adjust the FX Pads on the Procaster?]]
+- 2024-07-10 at 10h15 · [[RODECaster Pro II]]
 - 2024-07-04 at 09h54 · [[Computer Inventory Template]]
 - 2024-07-04 at 09h54 · [[README]]
 - 2024-07-04 at 09h54 · [[Tips for Working with ADHD]]
