@@ -1,3 +1,5 @@
+- 2024-07-22 at 15h11 · [[DLAV & HIVE Strategy Components]]
+- 2024-07-22 at 13h14 · [[Monthly HIVE Report Template]]
 - 2024-07-15 at 12h39 · [[Weekly DLT Report — Week 28, 2024]]
 - 2024-07-15 at 12h25 · [[Weekly Report Template]]
 - 2024-07-10 at 10h26 · [[How do I adjust the FX Pads on the Procaster?]]

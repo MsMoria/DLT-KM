@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3047ef4a0fd34f16",
+        "id": "196ee6b173848cce",
         "type": "tabs",
         "children": [
           {
-            "id": "d98cbd89d89f5bae",
+            "id": "eb900da32dccb177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md",
+                "file": "1. Inbox/DLAV & HIVE Strategy Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md",
+                "file": "1. Inbox/DLAV & HIVE Strategy Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md",
+                "file": "1. Inbox/DLAV & HIVE Strategy Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md"
+                "file": "1. Inbox/DLAV & HIVE Strategy Components.md"
               }
             }
           }
@@ -163,10 +163,12 @@
       "meld-encrypt:Encrypt/Decrypt": false
     }
   },
-  "active": "d98cbd89d89f5bae",
+  "active": "eb900da32dccb177",
   "lastOpenFiles": [
-    "6. Training Guides/HIVE Stations/DIY Podcasting Environment/How do I adjust the FX Pads on the Procaster?.md",
+    "1. Inbox/Monthly HIVE Report Template.md",
+    "1. Inbox/DLAV & HIVE Strategy Components.md",
     "7. Reporting/Weekly Report/Weekly DLT Report — Week 28, 2024.md",
+    "6. Training Guides/HIVE Stations/DIY Podcasting Environment/How do I adjust the FX Pads on the Procaster?.md",
     "8. General Documentation/Templates/Weekly Report Template.md",
     "7. Reporting/Weekly Report",
     "7. Reporting",
